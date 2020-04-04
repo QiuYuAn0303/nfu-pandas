@@ -1,1 +1,1 @@
-# nfu-pandas
+# 此仓库是中大南方pandas课程的作业仓库
